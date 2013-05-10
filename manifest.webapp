@@ -1,0 +1,19 @@
+﻿{
+	"name": "PI-DeveloperPreview",
+	"description": "Mi Prmer Juego xD",
+	"version": "1.0",
+	"launch_path": "/pi-game.herokuapp.com/",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/pi-game.herokuapp.com/icon_16.png",
+		"32": "/pi-game.herokuapp.com/icon_32.png",
+		"128": "/pi-game.herokuapp.com/icon_128.png"
+	},
+	"developer": {
+		"name": "Luis Anselmo Ortega Moreno",
+		"url": "http://www.facebook.com/luis0rt"
+	},
+	"default_locale": "en",
+	"fullscreen": "true",
+	"appcache_path": "/pi-game.herokuapp.com/offline.appcache"
+}
